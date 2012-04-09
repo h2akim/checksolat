@@ -86,7 +86,7 @@ kod = {
     'SGR02' : 'Sabak Bernam, Kuala Selangor, Klang, Kuala Langat, SELANGOR DAN WILAYAH PERSEKUTUAN',
     'TRG02' : 'Besut, Setiu, Terengganu',
     'TRG03' : 'Hulu Terengganu, Terengganu',
-    'TRG04' : 'Kemaman Dungun, Terengganu',
+    'TRG04' : 'Kemaman, Dungun, Terengganu',
     'TRG01' : 'Kuala Terengganu, Marang, Terengganu',
     'WLY02' : 'Labuan, WILAYAH PERSEKUTUAN LABUAN'
 }
@@ -102,7 +102,7 @@ class waktuSolat:
 
 def process(location):
     
-    url = 'http://www.e-solat.gov.my/bar_left.php?kod=' + location
+    url = 'http://www.e-solat.gov.my/solat.php?kod=' + location
     headers = {
         'User-Agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)'
     }
