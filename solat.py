@@ -6,7 +6,8 @@
 # 
 # Changelog
 # + Isnin, 9 April 2012
-#  ' : 'Prototaip dilancar
+#  - Prototaip dilancar
+#  - Opsyen lokasi ditambah
 #
 # ------------------------------------------------------------------------
 #
