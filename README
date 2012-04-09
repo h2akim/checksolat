@@ -16,7 +16,8 @@ Location codes:
     KDH02 - Pendang, Kuala Muda, Yan, KEDAH
     KDH06 - Puncak Gunung Jerai, KEDAH
     KTN03 - Jeli, Gua Musang (Mukim Galas, Bertam), Kelantan
-    KTN01 - K.Bharu,Bachok,Pasir Puteh,Tumpat,Pasir Mas,Tnh. Merah,Machang,Kuala Krai,Mukim Chiku, Kelantan
+    KTN01 - K.Bharu, Bachok, Pasir Puteh, Tumpat, Pasir Mas,
+            Tnh. Merah, Machang, Kuala Krai, Mukim Chiku, Kelantan
     MLK01 - Bandar Melaka, Alor Gajah, Jasin, Masjid Tanah, Merlimau, Nyalas, MELAKA
     NGS01 - Jempol, Tampin, NEGERI SEMBILAN
     NGS02 - Port Dickson, Seremban, Kuala Pilah, Jelebu, Rembau, NEGERI SEMBILAN
@@ -31,8 +32,8 @@ Location codes:
     PRK03 - Pengkalan Hulu, Grik dan Lenggong, PERAK
     PRK06 - Selama, Taiping, Bagan Serai dan Parit Buntar, PERAK
     PRK01 - Tapah,Slim River dan Tanjung Malim, PERAK
-    PRK05 - Teluk Intan, Bagan Datoh, Kg.Gajah,Sri Iskandar, Beruas,Parit,Lumut,Setiawan dan Pulau Pangkor,
-            PERAK
+    PRK05 - Teluk Intan, Bagan Datoh, Kg.Gajah,Sri Iskandar, Beruas,
+            Parit, Lumut, Setiawan dan Pulau Pangkor, PERAK
     PRK04 - Temengor dan Belum, PERAK
     PLS01 - Kangar, Padang Besar, Arau, PERLIS
     PNG01 - Seluruh Negeri Pulau Pinang, PULAU PINANG
@@ -44,19 +45,23 @@ Location codes:
     SBH06 - Zon 6 - Gunung Kinabalu, Sabah
     SBH07 - Zon 7 - Papar, Ranau, Kota Belud, Tuaran, Penampang, Kota Kinabalu, Sabah
     SBH08 - Zon 8 - Pensiangan, Keningau, Tambunan, Nabawan, Sabah
-    SBH09 - Zon 9 - Sipitang, Membakut, Beaufort, Kuala Penyu, Weston, Tenom, Long Pa Sia, Sabah
+    SBH09 - Zon 9 - Sipitang, Membakut, Beaufort, Kuala Penyu, Weston,
+            Tenom, Long Pa Sia, Sabah
     SWK01 - Zon 1 - Limbang, Sundar, Terusan, Lawas, Sarawak
     SWK02 - Zon 2 - Niah, Belaga, Sibuti, Miri, Bekenu, Marudi, Sarawak
     SWK03 - Zon 3 - Song, Belingan, Sebauh, Bintulu, Tatau, Kapit, Sarawak
     SWK04 - Zon 4 - Igan, Kanowit, Sibu, Dalat, Oya, Sarawak
     SWK05 - Zon 5 - Belawai, Matu, Daro, Sarikei, Julau, Bitangor, Rajang, Sarawak
-    SWK06 - Zon 6 - Kabong, Lingga, Sri Aman, Engkelili, Betong, Spaoh, Pusa, Saratok, Roban, Debak, Sarawak
+    SWK06 - Zon 6 - Kabong, Lingga, Sri Aman, Engkelili, Betong, Spaoh, Pusa,
+            Saratok, Roban, Debak, Sarawak
     SWK07 - Zon 7 - Samarahan, Simunjan, Serian, Sebuyau, Meludam, Sarawak
     SWK08 - Zon 8 - Kuching, Bau, Lundu,Sematan, Sarawak
-    SGR01 - Gombak,H.Selangor,Rawang,H.Langat,Sepang,Petaling,S.Alam, SELANGOR DAN WILAYAH PERSEKUTUAN
+    SGR01 - Gombak, H.Selangor, Rawang, H.Langat, Sepang, Petaling,
+            Shah Alam, SELANGOR DAN WILAYAH PERSEKUTUAN
     SGR03 - Kuala Lumpur, SELANGOR DAN WILAYAH PERSEKUTUAN
     SGR04 - Putrajaya, SELANGOR DAN WILAYAH PERSEKUTUAN
-    SGR02 - Sabak Bernam, Kuala Selangor, Klang, Kuala Langat, SELANGOR DAN WILAYAH PERSEKUTUAN
+    SGR02 - Sabak Bernam, Kuala Selangor, Klang,
+            Kuala Langat, SELANGOR DAN WILAYAH PERSEKUTUAN
     TRG02 - Besut, Setiu, Terengganu
     TRG03 - Hulu Terengganu, Terengganu
     TRG04 - Kemaman Dungun, Terengganu
